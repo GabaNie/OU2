@@ -5,6 +5,7 @@ void print(){
     printf("ok dziala funkcja");
 }
 int main() {
+    printf("Początek kodu");
     print();
     printf("ok");
     return 0;
