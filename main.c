@@ -2,7 +2,7 @@
 
 void print(int m)
 {
-    int w=5*m;
+    int w=5*m+2;
     printf("%d\n",w);
     printf("ok dziala funkcja");
 }
