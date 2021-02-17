@@ -10,5 +10,6 @@ int main() {
     printf("Początek kodu");
     print();
     printf("ok");
+    //wszytsko z margowane
     return 0;
 }
